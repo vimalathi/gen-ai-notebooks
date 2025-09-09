@@ -1,1 +1,5 @@
 carbon-aware-computing/.env
+ai-agent/.env
+carbon-aware-computing/L2/__pycache__
+.vscode/settings.json
+compare-price/response.html
